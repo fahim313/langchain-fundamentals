@@ -30,3 +30,6 @@ scikit-learn
 
 # loacal Embeddings
 sentence-transformers
+
+# streamlit
+streamlit 
