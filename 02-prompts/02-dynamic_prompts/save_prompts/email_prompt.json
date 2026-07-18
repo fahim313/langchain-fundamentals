@@ -1,0 +1,17 @@
+{
+    "name": null,
+    "input_variables": [
+        "details",
+        "purpose",
+        "receiver"
+    ],
+    "optional_variables": [],
+    "output_parser": null,
+    "partial_variables": {},
+    "metadata": null,
+    "tags": null,
+    "template": "\nWrite a professional email.\n\nReceiver: {receiver}\n\nPurpose: {purpose}\n\nDetails:\n{details}\n\nGenerate only the email.\n",
+    "template_format": "f-string",
+    "validate_template": true,
+    "_type": "prompt"
+}
